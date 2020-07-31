@@ -47,7 +47,6 @@ const BookInfo = (props)=>{
                         }}
                     />
 
-                
                 </div>	
             </div>
         </>
