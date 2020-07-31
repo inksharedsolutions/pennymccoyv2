@@ -22,23 +22,23 @@ const BookInfo = (props)=>{
                         
                         <span>{props.data.spanTitle}</span>
 
-                        <p className="content-body">
-                            {props.data.content}
-                        </p>
+            
+                        <div className="content-body" 
+                            dangerouslySetInnerHTML={{__html: `${props.data.content}`}} />
                     </section>
 
 
                     <BookLink
                         data={{
                             ebooks:{
-                                stratton : 'https://www.stratton-press.com/books/10-guidelines-on-how-to-receive-from-god/',
-                                barnes: 'https://www.barnesandnoble.com/w/10-guidelines-on-how-to-receive-from-god-ellerbee-larry/1136258963?ean=9781643457871',
-                                amazon :'https://www.amazon.com/10-Guidelines-How-Receive-God-ebook/dp/B084686XMJ/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=', 
+                                stratton : 'https://www.stratton-press.com/books/the-ultimate-victory-fulfilling-destiny-through-freedom-healing-and-wholeness/',
+                                barnes: 'https://www.barnesandnoble.com/w/the-ultimate-victory-penny-mccoy/1134150168?ean=9781643457697',
+                                amazon :'https://www.amazon.com/Ultimate-Victory-Fulfilling-Destiny-Wholeness-ebook/dp/B07Z8H31ZJ/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1596195985&sr=8-1', 
                             },
                             paperback:{
-                                amazon:'https://www.amazon.com/10-Guidelines-How-Receive-God/dp/1643455893/',
-                                barnes:'https://www.barnesandnoble.com/w/10-guidelines-on-how-to-receive-from-god-ellerbee-larry/1136258963?ean=9781643455891',
-                                booksamillion:'https://www.booksamillion.com/p/Guidelines-How-Receive-from-God/Ellerbee-Larry/9781643455891?id=7714171848832',
+                                amazon:'https://www.amazon.com/Penny-McCoy/dp/1643457683/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1596195985&sr=8-1',
+                                barnes:'https://www.barnesandnoble.com/w/the-ultimate-victory-penny-mccoy/1134150168?ean=9781643457680',
+                                booksamillion:'https://www.booksamillion.com/p/Ultimate-Victory/Penny-McCoy/9781643457680?id=7954811514842',
                             },
                             
                             reviews:{},

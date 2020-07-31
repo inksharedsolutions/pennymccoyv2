@@ -44,18 +44,17 @@
 
     li{
         list-style-type: none;
+        padding: 0 24px;
         a{
             text-decoration: none;
             color: #ffffffc2 !important;
-            padding: 0 24px;
             font-size: 15px;
-
+            text-transform: uppercase;
+            font-weight: 900;
             [aria-current="page"]{
-                color: #ffffff !important;
-                background: #9bd8ff6e;
-                padding: 4px 22px;
+                color: #fff !important;
             }
-        }
+        }        
 
         img{
             width: 65px;
