@@ -32,6 +32,12 @@
 
 @media screen and ( max-width : 990px){
 
+    .footer-paragraph-info{
+        img{
+            margin-top: 16%;
+        }
+    }
+
     .burger-nav{
         display: flex !important;
         justify-content: space-between;
@@ -453,7 +459,7 @@
         ul{
             li{
                 a{
-                    font-size: 13px;
+                    font-size: 20px;
                 }
             }
         }
