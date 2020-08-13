@@ -22,10 +22,10 @@ const MidBook = (props)=>{
                             <h1>Featured Book</h1>
 
                             <p>
-                                For your comfort, this book is published in paperback and hardcover.
-                                We also have eBook and audiobook in downloadable electronic format.
-                                You can listen to on your computer,
-                                iPod or any other mp3 player.
+                                Let the word of God indulge your mind, spirit, soul and senses.
+                                Listen, read and feel His love, kindness and faithfulness.
+                                I Am Amidst You Now is available in audiobook, eBook,
+                                paperback and hardback versions.
                             </p>
 
                             <Accordions/>

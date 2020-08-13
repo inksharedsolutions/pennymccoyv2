@@ -16,9 +16,9 @@ const Trailer = () =>{
                             <span>Trailer</span>
                         </h1>
                         <p>
-                            Lorem Ipsum is simply dummy text of the printing
-                            and typesetting industry. Lorem Ipsum has been 
-                            the industry's standard  dummy text ever since the 1500s, 
+                            I Am Amidst You Now is a reminder of God's unfailing love.
+                            The faithfulness of His promises. The vastness of His grace
+                            and mercy. Put your confidence in Him, for He shall never leave you.                       
                         </p>
                     </div>
 
