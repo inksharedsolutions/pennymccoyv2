@@ -87,8 +87,8 @@ const ATB = (props)=>{
                                     `,
 
                                     ebooks:{
-                                        stratton : 'https://www.stratton-press.com/books/i-am-amidst-you-now-god-the-father-healing-my-truth/',
-                                        barnes: 'https://www.barnesandnoble.com/w/i-am-amidst-you-now-penny-mccoy/1129621956?ean=9781643451688',
+                                        stratton : 'https://www.stratton-press.com/books/the-ultimate-victory-fulfilling-destiny-through-freedom-healing-and-wholeness/',
+                                        barnes: 'https://www.barnesandnoble.com/w/the-ultimate-victory-penny-mccoy/1134150168?ean=9781643457680',
                                         amazon :'https://www.amazon.com/Ultimate-Victory-Fulfilling-Destiny-Wholeness-ebook/dp/B07Z8H31ZJ/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1597445470&sr=1-1', 
                                     },
                                     paperback:{

@@ -28,24 +28,22 @@ const BookInfo = (props)=>{
                     </section>
 
 
-                    <BookLink
-                        data={{
-                            ebooks:{
-                                stratton : 'https://www.stratton-press.com/books/the-ultimate-victory-fulfilling-destiny-through-freedom-healing-and-wholeness/',
-                                barnes: 'https://www.barnesandnoble.com/w/the-ultimate-victory-penny-mccoy/1134150168?ean=9781643457697',
-                                amazon :'https://www.amazon.com/Ultimate-Victory-Fulfilling-Destiny-Wholeness-ebook/dp/B07Z8H31ZJ/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1596195985&sr=8-1', 
-                            },
-                            paperback:{
-                                amazon:'https://www.amazon.com/Penny-McCoy/dp/1643457683/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1596195985&sr=8-1',
-                                barnes:'https://www.barnesandnoble.com/w/the-ultimate-victory-penny-mccoy/1134150168?ean=9781643457680',
-                                booksamillion:'https://www.booksamillion.com/p/Ultimate-Victory/Penny-McCoy/9781643457680?id=7954811514842',
-                            },
-                            
-                            reviews:{},
+                    <section className="fullSection">
+                        <nav className="booklinkBlocks">
+                            <span>Ebooks :</span>
+                            <li><a rel="noopener noreferrer" target="_blank" href={props.data.ebooks.amazon}>Amazon</a></li>
+                            <li><a rel="noopener noreferrer" target="_blank" href={props.data.ebooks.stratton}>Stratton Press</a></li>
+                            <li><a rel="noopener noreferrer" target="_blank" href={props.data.ebooks.barnes}>Barnes & Noble</a></li>
+                        </nav>
 
-                            isNonfront:true,
-                        }}
-                    />
+                        <nav className="booklinkBlocks">
+                            <span>Purchase Paperback :</span>
+                            <li><a rel="noopener noreferrer" target="_blank" href={props.data.paperback.amazon}>Amazon</a></li>
+                            <li><a rel="noopener noreferrer" target="_blank" href={props.data.paperback.barnes}>Barnes & Noble </a></li>
+                            <li><a rel="noopener noreferrer" target="_blank" href={props.data.paperback.booksamillion}>Books A Million</a></li>
+                        </nav>
+                    </section>
+
 
                 </div>	
             </div>
