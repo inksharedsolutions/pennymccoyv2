@@ -44,14 +44,14 @@ const ATB = (props)=>{
                                     This is the day God’s voice is going to be heard above the voice of evil. This book salutes the truth that God is not dead but alive with ears that hear, eyes that see, and power and authority to heal, deliver, and make nations tremble. The intent of I Am Amidst You Now is to be a launching pad to destiny and freedom.</p> `,
 
                                     ebooks:{
-                                        stratton : 'https://www.stratton-press.com/books/i-am-amidst-you-now-god-the-father-healing-my-truth/',
-                                        barnes: 'https://www.barnesandnoble.com/w/i-am-amidst-you-now-penny-mccoy/1129621956?ean=9781643451688',
-                                        amazon :'https://www.amazon.com/Am-Amidst-You-Now-Healing-ebook/dp/B07HMK5PBM/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1554338377&sr=1-1', 
+                                        stratton:'https://www.stratton-press.com/books/i-am-amidst-you-now-god-the-father-healing-my-truth/',
+                                        barnes:  'https://www.barnesandnoble.com/w/i-am-amidst-you-now-penny-mccoy/1129621956?ean=9781643451688',
+                                        amazon : 'https://www.amazon.com/Am-Amidst-You-Now-Healing-ebook/dp/B07HMK5PBM/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1554338377&sr=1-1', 
                                     },
                                     paperback:{
                                         amazon:'https://www.amazon.com/Am-Amidst-You-Now-Healing/dp/1643450158/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1554338377&sr=1-1',
                                         barnes:'https://www.barnesandnoble.com/w/i-am-amidst-you-now-penny-mccoy/1129621956?ean=9781643450155',
-                                        booksamillion:'https://www.booksamillion.com/p/Guidelines-How-Receive-from-God/Ellerbee-Larry/9781643455891?id=7714171848832',
+                                        booksamillion:'https://www.booksamillion.com/p/Am-Amidst-Now/Penny-McCoy/9781643450155?id=7714171848832#',
                                     }
                                 }} 
                             />
@@ -89,12 +89,12 @@ const ATB = (props)=>{
                                     ebooks:{
                                         stratton : 'https://www.stratton-press.com/books/i-am-amidst-you-now-god-the-father-healing-my-truth/',
                                         barnes: 'https://www.barnesandnoble.com/w/i-am-amidst-you-now-penny-mccoy/1129621956?ean=9781643451688',
-                                        amazon :'https://www.amazon.com/Am-Amidst-You-Now-Healing-ebook/dp/B07HMK5PBM/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1554338377&sr=1-1', 
+                                        amazon :'https://www.amazon.com/Ultimate-Victory-Fulfilling-Destiny-Wholeness-ebook/dp/B07Z8H31ZJ/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1597445470&sr=1-1', 
                                     },
                                     paperback:{
-                                        amazon:'https://www.amazon.com/Am-Amidst-You-Now-Healing/dp/1643450158/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1554338377&sr=1-1',
-                                        barnes:'https://www.barnesandnoble.com/w/i-am-amidst-you-now-penny-mccoy/1129621956?ean=9781643450155',
-                                        booksamillion:'https://www.booksamillion.com/p/Guidelines-How-Receive-from-God/Ellerbee-Larry/9781643455891?id=7714171848832',
+                                        amazon:'https://www.amazon.com/Ultimate-Victory-Fulfilling-Destiny-Wholeness/dp/1643457683/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1597445470&sr=1-1',
+                                        barnes:'https://www.barnesandnoble.com/w/the-ultimate-victory-penny-mccoy/1134150168?ean=9781643457680',
+                                        booksamillion:'https://www.booksamillion.com/p/Ultimate-Victory/Penny-McCoy/9781643457680?id=7954811514842',
                                     }
                                 }} 
                             />
