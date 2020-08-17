@@ -69,6 +69,9 @@ $prm-font-size : 12px;
         font-family: 'Fanwood Text', serif;
         color: #101010;
         margin: 0 14%;
+        p{
+           margin: 0 !important; 
+        }
     }
 }
 
