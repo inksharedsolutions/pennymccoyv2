@@ -25,10 +25,10 @@ const ATB = (props)=>{
 
                             <div className="heading-quote">
                                 <h4>
-                                    I Am amidst you now 
-                                    My miracles to perform
-                                    I Am not dead
-                                    I Am alive and I Am yours to behold
+                                    <p>I Am amidst you now</p>
+                                    <p>My miracles to perform</p>
+                                    <p>I Am not dead</p>
+                                    <p>I Am alive and I Am yours to behold</p>
                                 </h4>
                                 
                                 <span className="ata-span-fx">
