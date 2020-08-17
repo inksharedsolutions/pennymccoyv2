@@ -26,7 +26,7 @@ const Footer = ()=>{
                     <nav className="social-media-nav">
                         <ul>
                             <li>
-                                <a href="https://en-gb.facebook.com/StrattonPressInc/"
+                                <a href="https://www.facebook.com/authorpennymc/"
                                 target="_blank">
                                     <FontAwesomeIcon
                                         className='font-awesome'
@@ -57,7 +57,7 @@ const Footer = ()=>{
                             <li>
                                 <a 
                                     target="_blank"
-                                    href="https://www.goodreads.com/author/show/3220904.Erik_D_J_O_Brien">
+                                    href="https://www.goodreads.com/author/show/584818.Penny_McCoy">
                                     <FontAwesomeIcon 
                                         className='font-awesome'
                                         icon={faGoodreads} />
