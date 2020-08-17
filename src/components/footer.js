@@ -19,14 +19,14 @@ const Footer = ()=>{
                         </h1>
                         <p>
                             Penny Mccoy loves to hear from readers. You can reach her via email. 
-                            Feel free to send questions about writing, him works, interviews 
+                            Feel free to send questions about writing, her works, interviews 
                             and other publicity matters.
                         </p> 
                         
                     <nav className="social-media-nav">
                         <ul>
                             <li>
-                                <a href="https://www.facebook.com/authorpennymc/"
+                                <a href="https://en-gb.facebook.com/StrattonPressInc/"
                                 target="_blank">
                                     <FontAwesomeIcon
                                         className='font-awesome'
@@ -57,7 +57,7 @@ const Footer = ()=>{
                             <li>
                                 <a 
                                     target="_blank"
-                                    href="https://www.goodreads.com/author/show/584818.Penny_McCoy">
+                                    href="https://www.goodreads.com/author/show/3220904.Erik_D_J_O_Brien">
                                     <FontAwesomeIcon 
                                         className='font-awesome'
                                         icon={faGoodreads} />

@@ -40,7 +40,7 @@ const ATB = (props)=>{
                                     imgSrc: FrontBook,
                                     id:'the_gifted_one',
                                     content:
-                                    `<p>This book is a compilation of prophetic words, illustrations, and script from the heart of God as our Father to our hearts as His children. 
+                                    `<p>This book is a compilation of messages, illustrations, and script from the heart of God as our Father to our hearts as His children. 
                                     This is the day God’s voice is going to be heard above the voice of evil. This book salutes the truth that God is not dead but alive with ears that hear, eyes that see, and power and authority to heal, deliver, and make nations tremble. The intent of I Am Amidst You Now is to be a launching pad to destiny and freedom.</p> `,
 
                                     ebooks:{

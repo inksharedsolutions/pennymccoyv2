@@ -17,11 +17,13 @@ const Artwork = () =>{
             <section className="artworks-section">
                 <h1>Artworks</h1>
                 <div className="art-row">
+                
                     <div className="art-columns">
                         <img 
                         alt={`artwork-img`} 
                         src={Img1} />
                     </div>
+
                     <div className="art-columns">
                         <div className="two-columns">
                             <img 
@@ -35,8 +37,8 @@ const Artwork = () =>{
                         alt={`artwork-img`} 
                         src={Img3} />
                     </div>
+
                     <div className="art-columns">
-                  
                         <img 
                         alt={`artwork-img`} 
                         src={Img6} />

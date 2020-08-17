@@ -25,12 +25,10 @@ const ATB = (props)=>{
 
                             <div className="heading-quote">
                                 <h4>
-                                    In order for your faith to work, you have to walk in Love. 
-                                    IF YOU FOLLOW THESE 10 GUIDELINES, you’ll 
-                                    receive more answers to your prayers, receive more
-                                    money, receive your healing, receive more love,
-                                    receive more power, receive more faith, and receive more
-                                    of everything God wants you to have.
+                                    I Am amidst you now 
+                                    My miracles to perform
+                                    I Am not dead
+                                    I Am alive and I Am yours to behold
                                 </h4>
                                 
                                 <span className="ata-span-fx">
@@ -64,12 +62,12 @@ const ATB = (props)=>{
                                 failed and succeeded, been on top in world championship 
                                 exaltation and plummeted to the depths of political Olympic 
                                 embarrassment, humility, despair and confusion. I have been
-                                a star and a princess only to become and ugly duckling. 
+                                a star and a princess only to become an ugly duckling. 
                                 I have tasted the joy of victory and the bitterness of defeat 
                                 through all the shame, guilt and brokenness of life. The amazing
                                 thing is all this led to opportunity for victory, freedom, 
                                 healing and purpose. It was up to me to choose. It is my desire 
-                                to use this label as an opportunity to fuel each and every one 
+                                to use this life as an opportunity to fuel each and every one 
                                 of you with the hope of this same sort of opportunity.
                             </p>
 
