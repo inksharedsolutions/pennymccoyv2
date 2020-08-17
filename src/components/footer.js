@@ -25,6 +25,7 @@ const Footer = ()=>{
                         
                     <nav className="social-media-nav">
                         <ul>
+
                             <li>
                                 <a href="https://www.facebook.com/authorpennymc/"
                                 target="_blank">
@@ -42,7 +43,7 @@ const Footer = ()=>{
                                         className='font-awesome'
                                         icon={faTwitter} />
                                 </a>
-                            </li> 
+                            </li>
 
                             <li>
                                 <a  

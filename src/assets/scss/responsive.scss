@@ -280,6 +280,17 @@
         padding: 16px !important;
         margin: 0;
     }
+
+    .grid-parent-blog{
+        grid-template-columns: auto !important;
+        .blog-num{
+            font-size: 2rem;
+        }
+
+        .blog-link{
+            text-align: center;
+        }
+    }
     
 
     body{
