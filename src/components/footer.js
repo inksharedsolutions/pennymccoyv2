@@ -18,7 +18,7 @@ const Footer = ()=>{
                             <img src={Logo} alt="img-footer-logo"/>
                         </h1>
                         <p>
-                            Penny Mccoy loves to hear from readers. You can reach him via email. 
+                            Penny Mccoy loves to hear from readers. You can reach her via email. 
                             Feel free to send questions about writing, him works, interviews 
                             and other publicity matters.
                         </p> 
@@ -108,7 +108,7 @@ const Footer = ()=>{
                     </li>
 
                     <li>
-                        <Link to="/terms-and-conditions">Terms & Condition</Link>
+                        <Link to="/terms-and-conditions">Terms & Conditions</Link>
                     </li>
                 </ul>
             </div>

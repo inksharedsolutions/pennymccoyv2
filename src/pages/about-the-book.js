@@ -35,8 +35,8 @@ const ATB = (props)=>{
 
                             <BookInfo
                                 data={{
-                                    title:`I AM AMIDST YOU KNOW`,
-                                    spanFirst: `God the father healing my truth`,
+                                    title:`I AM AMIDST YOU NOW`,
+                                    spanFirst: `God the Father, Healing My Truth`,
                                     imgSrc: FrontBook,
                                     id:'the_gifted_one',
                                     content:
@@ -94,12 +94,12 @@ const ATB = (props)=>{
                                     paperback:{
                                         amazon:'https://www.amazon.com/Ultimate-Victory-Fulfilling-Destiny-Wholeness/dp/1643457683/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1597445470&sr=1-1',
                                         barnes:'https://www.barnesandnoble.com/w/the-ultimate-victory-penny-mccoy/1134150168?ean=9781643457680',
-                                        booksamillion:'https://www.booksamillion.com/p/Ultimate-Victory/Penny-McCoy/9781643457680?id=7954811514842',
+                                        booksamillion:'https://www.barnesandnoble.com/w/the-ultimate-victory-penny-mccoy/1134150168?ean=9781643457697',
                                     }
                                 }} 
                             />
 
-                            <div className="commentSection" >
+                            <div className="commentSection">
                                 <div id="disqus_thread">
                                     <DiscussionEmbed {...disqusConfig} />
                                 </div>

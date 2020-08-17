@@ -2,7 +2,7 @@ import React from 'react'
 import Layout from '../components/layout'
 import Nav from '../components/nav'
 import Banner from '../components/non-front-banner'
-import AuthorImg from '../../static/author/penny_mccoy.jpg'
+import AuthorImg from '../../static/author/main_author.jpg'
 
 const ATB = (props)=>{
 	

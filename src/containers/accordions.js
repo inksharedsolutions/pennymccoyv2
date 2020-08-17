@@ -122,7 +122,7 @@ class Accordions extends React.Component {
                             paperback:{
                               amazon:'https://www.amazon.com/Am-Amidst-You-Now-Healing/dp/1643450158/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1554338377&sr=1-1',
                               barnes:'https://www.barnesandnoble.com/w/i-am-amidst-you-now-penny-mccoy/1129621956?ean=9781643450155',
-                              booksamillion:'https://www.booksamillion.com/p/Guidelines-How-Receive-from-God/Ellerbee-Larry/9781643455891?id=7714171848832',
+                              booksamillion:'https://www.booksamillion.com/p/Am-Amidst-Now/Penny-McCoy/9781643450155?id=7714171848832',
                           }
                       }}
                   />
