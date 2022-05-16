@@ -41,6 +41,16 @@ const BookInfo = (props)=>{
                             <li><a rel="noopener noreferrer" target="_blank" href={props.data.paperback.barnes}>Barnes & Noble </a></li>
                             <li><a rel="noopener noreferrer" target="_blank" href={props.data.paperback.booksamillion}>Books A Million</a></li>
                         </nav>
+                        {!Object.entries(props.data.hardcover.amazon).length==0 && (
+
+                            <nav className="booklinkBlocks">
+                                <span>Hardcover :</span>
+                                <li><a rel="noopener noreferrer" target="_blank" href={props.data.hardcover.amazon}>Amazon</a></li>
+                                <li><a rel="noopener noreferrer" target="_blank" href={props.data.hardcover.barnes}>Barnes & Noble </a></li>
+                                <li><a rel="noopener noreferrer" target="_blank" href={props.data.hardcover.booksamillion}>Books A Million</a></li>
+                            </nav>
+
+                        )}
                     </section>
 
 

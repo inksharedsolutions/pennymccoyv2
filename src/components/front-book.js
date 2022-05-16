@@ -1,5 +1,5 @@
 import React from 'react'
-import FrontBook from '../../static/books/book_01.png'
+import FrontBook from '../../static/books/the.png'
 import Accordions from '../containers/accordions'
 
 const MidBook = (props)=>{
@@ -17,15 +17,14 @@ const MidBook = (props)=>{
 
                         <div className="content-wraps">
 
-                            <span className="italic-tag">Read, listen, and learn in various formats</span>
+                            <span className="italic-tag">Read, and learn in various formats</span>
 
                             <h1>Featured Book</h1>
 
                             <p>
-                                Let the word of God indulge your mind, spirit, soul and senses.
-                                Listen, read and feel His love, kindness and faithfulness.
-                                I Am Amidst You Now is available in audiobook, eBook,
-                                paperback and hardback versions.
+                            The kingdoms of the world will become the kingdoms of our living and true God through those who live, move, and have their being in his destiny and plan for their lives.
+                            The Holy Exchange is available in eBook, paperback
+                            and hardback versions.
                             </p>
 
                             <Accordions/>

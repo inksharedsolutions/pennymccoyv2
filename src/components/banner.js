@@ -13,16 +13,14 @@ const Banner = ()=>{
                         <div className="right-col banner-img">
 
                             <div className="banner-text">
-                                <span className="first-title">I am</span>
+                                <span className="first-title">The</span>
                                 <h1>
-                                    <span>A</span>
-                                    <span>m</span>
-                                    <span>i</span>
-                                    <span>d</span>
-                                    <span>s</span>
-                                    <span>t</span>
+                                    <span>H</span>
+                                    <span>O</span>
+                                    <span>L</span>
+                                    <span>Y</span>
                                 </h1>
-                                <p>You Now</p>
+                                <p>Exchange</p>
                             </div>
                             <img src={ImgBanner}/>
                         </div>

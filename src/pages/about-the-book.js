@@ -6,6 +6,8 @@ import BookInfo from '../components/book-info/book-info'
 import { DiscussionEmbed } from "disqus-react"
 import FrontBook from '../../static/books/book_01.png'
 import SecondBook from '../../static/books/book_02.png'
+import ThirdBook from '../../static/books/the.png'
+import { Helmet } from 'react-helmet'
 
 const ATB = (props)=>{
 
@@ -21,8 +23,8 @@ const ATB = (props)=>{
 	return (
 		<>
 		 	<Layout>
-		 		<Nav pathExt={props.path}/>
-                 
+		 		<Helmet title='About the Books | Penny McCoy' />
+                <Nav pathExt={props.path}/>
 		 		<Banner
                     spanFirst={`About The`}
                     contextHeading={`Book`}
@@ -51,6 +53,11 @@ const ATB = (props)=>{
                                         amazon:'https://www.amazon.com/Am-Amidst-You-Now-Healing/dp/1643450158/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1554338377&sr=1-1',
                                         barnes:'https://www.barnesandnoble.com/w/i-am-amidst-you-now-penny-mccoy/1129621956?ean=9781643450155',
                                         booksamillion:'https://www.booksamillion.com/p/Am-Amidst-Now/Penny-McCoy/9781643450155?id=7714171848832#',
+                                    },
+                                    hardcover:{
+                                        amazon:'',
+                                        barnes:'',
+                                        booksamillion:'',
                                     }
                                 }} 
                             />
@@ -93,6 +100,40 @@ const ATB = (props)=>{
                                         amazon:'https://www.amazon.com/Ultimate-Victory-Fulfilling-Destiny-Wholeness/dp/1643457683/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1597445470&sr=1-1',
                                         barnes:'https://www.barnesandnoble.com/w/the-ultimate-victory-penny-mccoy/1134150168?ean=9781643457680',
                                         booksamillion:'https://www.barnesandnoble.com/w/the-ultimate-victory-penny-mccoy/1134150168?ean=9781643457697',
+                                    },
+                                    hardcover:{
+                                        amazon:'',
+                                        barnes:'',
+                                        booksamillion:'',
+                                    }
+                                }} 
+                            />
+
+                            <BookInfo
+                                data={{
+                                    title:`The Holy Exchange`,
+                                    spanFirst: `The Wealth of the world transferred to the righteous; for the healing of the peoples and the nations`,
+                                    imgSrc: ThirdBook,
+                                    id:'the_gifted_one',
+                                    content:
+                                    `<p>
+                                        The wealth of the world is far more than fame and fortune. It involves every aspect of life; faith, family, sports, entertainment and the arts, media, education, medicine, government and law, beauty and values, financial and banking systems, business and economics, invention, imagination, the way we speak, the way we think, the way we do relationship until there is nothing left untouched. Wherever the wicked rule; God is going to transfer that into the hands of his humble remnant people and overcoming children who love and serve him with a pure heart. The kingdoms of the world will become the kingdoms of our living and true God through those who live, move, and have their being in his destiny and plan for their lives.
+                                    </p>
+                                    `,
+
+                                    ebooks:{
+                                        barnes: 'https://www.barnesandnoble.com/w/the-holy-exchange-penny-mccoy/1138446334?ean=9781648952906',
+                                        amazon :'https://www.amazon.com/Holy-Exchange-transferred-righteous-healing-ebook/dp/B08Q67G9H1/ref=sr_1_1?dchild=1&keywords=9781648952906&qid=1607972199&sr=8-1', 
+                                    },
+                                    paperback:{
+                                        amazon:'https://www.amazon.com/Holy-Exchange-transferred-righteous-healing/dp/1648952895/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1607972430&sr=8-1',
+                                        barnes:'https://www.barnesandnoble.com/w/the-holy-exchange-penny-mccoy/1138446334?ean=9781648952890',
+                                        booksamillion:'https://www.booksamillion.com/p/Holy-Exchange/Penny-McCoy/9781648952890?id=8505380266050',
+                                    },
+                                    hardcover:{
+                                        amazon:'https://www.amazon.com/Holy-Exchange-transferred-righteous-healing/dp/1648952917/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1607972430&sr=8-1',
+                                        barnes:'https://www.barnesandnoble.com/w/the-holy-exchange-penny-mccoy/1138446334?ean=9781648952913',
+                                        booksamillion:'https://www.booksamillion.com/p/Holy-Exchange/Penny-McCoy/9781648952913?id=8505380266050',
                                     }
                                 }} 
                             />

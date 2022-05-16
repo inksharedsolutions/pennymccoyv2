@@ -3,13 +3,14 @@ import Layout from '../components/layout'
 import Nav from '../components/nav'
 import Banner from '../components/non-front-banner'
 import AuthorImg from '../../static/author/main_author.jpg'
+import { Helmet } from 'react-helmet'
 
 const ATB = (props)=>{
 	
 	return (
 		<>
 		 	<Layout>
-                 
+                <Helmet title="About the Author | Penny McCoy" />
 		 		<Nav pathExt={props.path}/>
                  <Banner 
                  spanFirst={`About The`} 
@@ -82,7 +83,7 @@ const ATB = (props)=>{
                             
                             <p>
                                 <span className="author-name">
-                                    <span className="author-span-ft">Author |  Writer </span>
+                                    <span className="author-span-ft">Author |  Writer</span>
                                     <span className="ata-name">Penny Mccoy</span>
                                 </span>
                             </p>

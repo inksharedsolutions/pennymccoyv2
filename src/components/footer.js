@@ -2,7 +2,7 @@ import React from 'react'
 import {Link} from 'gatsby'
 import {faTwitter, faInstagram, faFacebook, faGoodreads, faPinterest, faLinkedin } from '@fortawesome/fontawesome-free-brands'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
-import LogoFooter from '../../static/logo/stratton-footer-logo.png'
+import LogoFooter from '../../static/logo/logo-updated.png'
 import  Logo from '../../static/logo/footer_logo.png'
 import Newsletter from "./newsletter"
 
@@ -79,7 +79,7 @@ const Footer = ()=>{
                                 <Link to="/about-the-author">About the Author</Link>
                             </li>
                             <li>
-                                <Link to="/about-the-book">Books</Link>
+                                <Link to="/about-the-book">About the Books</Link>
                             </li>
                             <li>
                                 <Link to="/contact">Contact</Link>
