@@ -54,11 +54,7 @@ const ATB = (props)=>{
                                         barnes:'https://www.barnesandnoble.com/w/i-am-amidst-you-now-penny-mccoy/1129621956?ean=9781643450155',
                                         booksamillion:'https://www.booksamillion.com/p/Am-Amidst-Now/Penny-McCoy/9781643450155?id=7714171848832#',
                                     },
-                                    hardcover:{
-                                        amazon:'',
-                                        barnes:'',
-                                        booksamillion:'',
-                                    }
+                                    hardcover:{}
                                 }} 
                             />
 
@@ -101,11 +97,7 @@ const ATB = (props)=>{
                                         barnes:'https://www.barnesandnoble.com/w/the-ultimate-victory-penny-mccoy/1134150168?ean=9781643457680',
                                         booksamillion:'https://www.barnesandnoble.com/w/the-ultimate-victory-penny-mccoy/1134150168?ean=9781643457697',
                                     },
-                                    hardcover:{
-                                        amazon:'',
-                                        barnes:'',
-                                        booksamillion:'',
-                                    }
+                                    hardcover:{}
                                 }} 
                             />
 
@@ -114,7 +106,7 @@ const ATB = (props)=>{
                                     title:`The Holy Exchange`,
                                     spanFirst: `The Wealth of the world transferred to the righteous; for the healing of the peoples and the nations`,
                                     imgSrc: ThirdBook,
-                                    id:'the_gifted_one',
+                                    id:'the_holy_exchange',
                                     content:
                                     `<p>
                                         The wealth of the world is far more than fame and fortune. It involves every aspect of life; faith, family, sports, entertainment and the arts, media, education, medicine, government and law, beauty and values, financial and banking systems, business and economics, invention, imagination, the way we speak, the way we think, the way we do relationship until there is nothing left untouched. Wherever the wicked rule; God is going to transfer that into the hands of his humble remnant people and overcoming children who love and serve him with a pure heart. The kingdoms of the world will become the kingdoms of our living and true God through those who live, move, and have their being in his destiny and plan for their lives.

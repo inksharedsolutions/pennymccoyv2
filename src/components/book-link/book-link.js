@@ -31,7 +31,7 @@ const BookLink = (props)=>{
                 {!Object.entries(props.data.hardcover).length==0 && (
 
                 <nav className={`${props.data.isNonfront ? 'booklinkBlocks' : 'frontLinks'}`}>
-                    <span>{`${props.data.isNonfront?'Paperback': ''}`}</span>
+                    <span>{`${props.data.isNonfront?'Hardcover': ''}`}</span>
                     <li><a rel="noopener noreferrer" target="_blank" href={props.data.hardcover.amazon}>Amazon</a></li>
                     <li><a rel="noopener noreferrer" target="_blank" href={props.data.hardcover.barnes}>Barnes & Noble </a></li>
                     <li><a rel="noopener noreferrer" target="_blank" href={props.data.hardcover.booksamillion}>Books A Million</a></li>
